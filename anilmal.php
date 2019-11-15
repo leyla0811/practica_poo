@@ -14,4 +14,4 @@ class animal{
 
 }
 $perro1= new animal("1","oso");
-
+<p>confirmacion de datos</p>
